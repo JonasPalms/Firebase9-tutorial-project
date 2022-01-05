@@ -1,8 +1,10 @@
 Tutorial for basic Firestore Firebase 9 functionality with a webpack config setup.
-    - Creation of books in database
-    - Signup and login/logout of users
+ 
+Core functionality:
+- Creation of books in database
+- Signup and login/logout of users
 
-
+Keywords: 
 - Modular import of functions
 - Forebase Confiq and db and auth init 
 - Subscription to all changes
